@@ -1,3 +1,17 @@
+from https://github.com/nasa8x/node-genesis-block
+
+## install 
+```bash
+git clone https://github.com/nasa8x/node-genesis-block
+cd node-genesis-block
+nvm install v8.14.0
+nvm use v8.14.0
+npm install 
+```
+
+
+
+
 ## Create Genesis Block Proof with Node.js
 
 **Tested with Node.js version 8.x.x**
