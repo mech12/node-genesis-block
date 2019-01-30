@@ -11,6 +11,13 @@ npm install
 
 
 
+## bitcoin 주소(WIF) 로 public ECDSA Key알아내기
+https://iancoleman.io/bitcoin-key-compression/
+
+
+
+
+
 
 ## Create Genesis Block Proof with Node.js
 
